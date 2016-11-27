@@ -1,2 +1,2 @@
-# Web-Applets
+# Web-Snippets
 Useful snippets of code written in PHP/ JavaScript. Often times using the jquery library.
