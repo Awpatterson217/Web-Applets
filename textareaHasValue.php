@@ -1,5 +1,11 @@
 <!DOCTYPE html>
+<!--
+This snippet of code forces a user to enter data into a field before they can submit a form. 
+The PHP could be removed.
 
+This code was initially written to force users who were editing a post to document there changes. 
+PHP was used on the backend - articles the users had written were stored on a MySQL DB. 
+-->
 <html>
 <head>
 	<title>
