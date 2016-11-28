@@ -17,10 +17,6 @@ PHP was used on the backend - articles the users had written were stored on a My
 		// Is the user editing a post, or creating a new one.
 		$isEditing = true;
 	?>
-
-
-
-
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<?php
 	/*
